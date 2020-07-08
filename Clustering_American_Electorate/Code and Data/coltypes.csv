@@ -1,0 +1,1075 @@
+Name,Type,Section
+case_identifier,ID,ID
+caseid,ID,ID
+weight_panel,Weight,Weight
+weight_latino,Weight,Weight
+weight_18_24,Weight,Weight
+weight_overall,Weight,Weight
+cassfullcd,ID,ID
+add_confirm_2018,Cat,ID
+inputzip_2018,Info_Zip,ID
+votereg_2018,Cat,ID
+votereg_f_2018,Cat,ID
+regzip_2018,Info_Zip,ID
+inputstate2_2018,Cat,ID
+vote18_2018,Cat,Voting
+vote18_other_2018,Probably drop,Voting
+trumpapp_2018,Cat_O_DN,Pol_Approval
+trumpfeel_2018,Cat_O_DN,Pol_Approval
+fav_trump_2018,Cat_O_DN,Pol_Approval
+fav_ryan_2018,Cat_O_DN,Pol_Approval
+fav_obama_2018,Cat_O_DN,Pol_Approval
+fav_hrc_2018,Cat_O_DN,Pol_Approval
+fav_sanders_2018,Cat_O_DN,Pol_Approval
+fav_putin_2018,Cat_O_DN,Pol_Approval
+fav_schumer_2018,Cat_O_DN,Pol_Approval
+fav_pelosi_2018,Cat_O_DN,Pol_Approval
+fav_comey_2018,Cat_O_DN,Pol_Approval
+fav_mueller_2018,Cat_O_DN,Pol_Approval
+fav_mcconnell_2018,Cat_O_DN,Pol_Approval
+systems_leader_2018,Cat_O,Systems/Democracy
+systems_army_2018,Cat_O,Systems/Democracy
+systems_democ_2018,Cat_O,Systems/Democracy
+governed_2018,Cat_O,Systems/Democracy
+view1_2018,Cat,Systems/Democracy
+satisf_dem_2018,Cat_O,Systems/Democracy
+view2_2018,Cat,Systems/Democracy
+inst_court_2018,Cat_O,Institutions
+inst_media_2018,Cat_O,Institutions
+inst_congress_2018,Cat_O,Institutions
+inst_justice_2018,Cat_O,Institutions
+inst_FBI_2018,Cat_O,Institutions
+inst_military_2018,Cat_O,Institutions
+inst_church_2018,Cat_O,Institutions
+inst_business_2018,Cat_O,Institutions
+track_2018,Cat,Direction
+persfinretro_2018,Cat_O_DN,Direction
+econtrend_2018,Cat_O_DN,Direction
+life_2018,Cat_O_DN,Direction
+stranger_2018,Cat_O,Direction
+trustgovt_2018,Cat_O,Trust
+immi_contribution_2018,Cat_O_DN,Immigration
+immi_naturalize_2018,Cat,Immigration
+immi_makedifficult_2018,Cat_O_DN,Immigration
+immi_muslim_2018,Cat_O_DN,Immigration
+immi_stay_2018,Cat_O_DN,Immigration
+immi_num_2018,Cat_O,Immigration
+immi_region_eur_2018,Cat_O,Immigration
+immi_region_latin_2018,Cat_O,Immigration
+immi_region_mid_2018,Cat_O,Immigration
+immi_region_india_2018,Cat_O,Immigration
+immi_region_china_2018,Cat_O,Immigration
+immi_region_afr_2018,Cat_O,Immigration
+immi_legal_2018,Cat,Immigration
+tax_2018,Cat_O_DN,Taxes
+tax_class_you_2018,Change order,Taxes
+tax_class_economy_2018,Change order,Taxes
+tax_class_poor_2018,Change order,Taxes
+tax_class_wealthy_2018,Change order,Taxes
+tax_class_middle_2018,Change order,Taxes
+tax_self_2018,Cat_O_DN,Taxes
+tax_goal_growth_2018,Cat_O,Taxes
+tax_goal_corpor_2018,Cat_O,Taxes
+tax_goal_wealthy_2018,Cat_O,Taxes
+tax_goal_middle_2018,Cat_O,Taxes
+tax_goal_poor_2018,Cat_O,Taxes
+tax_goal_federal_2018,Cat_O,Taxes
+tax_goal_you_2018,Cat_O,Taxes
+tax_corp_2018,Change order,Taxes
+tax_rich_2018,Change order,Taxes
+taxdoug_2018,Cat,Taxes
+tax_sys_2018,Cat_O_DN,Taxes
+regula_2018,Change order,Economics
+marij_2018,Cat,MiscIssue
+nkorea_2018,Cat_O_DN,MiscIssue
+speech_2018,Cat,Cultural
+amendment_2018,Cat_O_DN,Cultural
+anthem_2018,Cat_O_DN,Cultural
+CR_touch_2018,Cat_O,PersonalRepFeelings
+CR_careA_2018,Cat_O,PersonalRepFeelings
+CR_careB_2018,Cat_O,PersonalRepFeelings
+CR_careC_2018,Cat_O,PersonalRepFeelings
+CR_careD_2018,Cat_O,PersonalRepFeelings
+CR_careE_2018,Cat_O,PersonalRepFeelings
+CR_careF_2018,Cat_O,PersonalRepFeelings
+CR_careG_2018,Cat_O,PersonalRepFeelings
+CR_careH_2018,Cat_O,PersonalRepFeelings
+parties_2018,Cat,Parties
+represent_dem_2018,Cat_O,Parties
+represent_rep_2018,Cat_O,Parties
+prio_dem_2018,Cat,Parties
+prio_rep_2018,Cat,Parties
+third_econ_2018,Cat_O,Parties
+third_soc_2018,Cat_O,Parties
+third_immi_2018,Cat_O,Parties
+democracy_2018,Cat,Elections
+elect_2018,Cat_O_DN,Elections
+house_amount_2018,Change order,Elections
+house_mem_2018,Cat,Elections
+party_perc_2018,Cat_O_DN,Elections
+electway_2018,Cat,Elections
+electway_pref_2018,Cat,Elections
+electway2_2018,Cat,Elections
+electway3_2018,Cat,Elections
+electway4_2018,Cat,Elections
+elect_sena_2018,Cat_O_DN,Elections
+senators_2018,Cat,Elections
+sena_hous_2018,Cat,Elections
+elect_pres_2018,Cat_O_DN,Elections
+pres_syst_2018,Cat_O_DN,Elections
+pop_vote_2018,Cat_O_DN,Elections
+legis_2018,Cat,Knowledge
+fund_cong_2018,Cat_O_DN,Knowledge
+fund_hous_2018,Cat_O_DN,Knowledge
+faithA_2018,Cat_O_DN,MiscIssue
+faithB_2018,Cat_O_DN,MiscIssue
+faithC_2018,Cat_O_DN,MiscIssue
+disagree_2018,Cat,MiscIssue
+improper_2018,Cat_O_DN,Russia
+russA_2018,Cat_O_DN,Russia
+russB_2018,Cat_O_DN,Russia
+russC_2018,Cat_O_DN,Russia
+russD_2018,Cat_O_DN,Russia
+fair_2018,Cat_O_DN,Russia
+remove_2018,Cat_O_DN,Russia
+pardon_2018,Cat_O_DN,Russia
+impeach_2018,Cat_O_DN,Russia
+sexism1_2018,Cat_O,Sex/MeToo
+sexism2_2018,Cat_O,Sex/MeToo
+sexism3_2018,Cat_O,Sex/MeToo
+sexism4_2018,Cat_O,Sex/MeToo
+sexism5_2018,Cat_O,Sex/MeToo
+sexism6_2018,Cat_O,Sex/MeToo
+follow_2018,Cat_O,Sex/MeToo
+alleg_2018,Cat,Sex/MeToo
+sexual_rep_2018,Cat_O,Sex/MeToo
+sexual_dem_2018,Cat_O,Sex/MeToo
+attention_2018,Cat_O,Sex/MeToo
+occur1_2018,Cat_O,RiggedOccur
+occur2_2018,Cat_O,RiggedOccur
+occur3_2018,Cat_O,RiggedOccur
+occur4_2018,Cat_O,RiggedOccur
+occur5_2018,Cat_O,RiggedOccur
+childhood_2018,Cat,RespInfo
+state_2018,Probably drop,RespInfo
+town_open_2018,Probably drop,RespInfo
+relig_2018,Cat,RespInfo
+chris_2018,Cat,RespInfo
+belief_2018,Cat_O,RespInfo
+holy_2018,Cat_O,RespInfo
+employment_2018,Cat,RespInfo
+unemployed_2018,Tied to nearby column,RespInfo
+worry_2018,Cat_O,RespInfo
+saving_2018,Cat,RespInfo
+prepared_2018,Cat_O,RespInfo
+difficulty_you_2018,Cat,RespInfo
+difficulty_spou_2018,Cat,RespInfo
+difficulty_morg_2018,Cat,RespInfo
+difficulty_load_2018,Cat,RespInfo
+difficulty_car_2018,Cat,RespInfo
+difficulty_cred_2018,Cat,RespInfo
+difficulty_inc_2018,Cat,RespInfo
+satisf_Job_2018,Cat_O,RespInfo
+satisf_Income_2018,Cat_O,RespInfo
+satisf_Savings_2018,Cat_O,RespInfo
+satisf_Debt_2018,Cat_O,RespInfo
+satisf_Health_2018,Cat_O,RespInfo
+satisf_Place_2018,Cat_O,RespInfo
+satisf_Neighborhood_2018,Cat_O,RespInfo
+satisf_Economy_2018,Cat_O,RespInfo
+satisf_Relation_2018,Cat_O,RespInfo
+birthyr_2018,Number,RespInfo
+gender_2018,Cat,RespInfo
+race_2018,Cat,RespInfo
+educ_2018,Cat_O,RespInfo
+marstat_2018,Cat,RespInfo
+employ_2018,Cat,RespInfo
+faminc_new_2018,Cat_O_DN,RespInfo
+pid3_2018,Cat,PolIden
+pid7_2018,Cat_O_DN,PolIden
+inputstate_2018,Cat,ID
+ideo5_2018,Cat_O_DN,PolIden
+newsint_2018,Cat_O_DN,Engagement
+religpew_2018,Cat,RespInfo
+pew_churatd_2018,Cat_O_DN,RespInfo
+pew_bornagain_2018,Cat,RespInfo
+pew_religimp_2018,Cat_O,RespInfo
+promise,Cat_O_DN,RespInfo
+weight_2017,Weight,Weight
+wishvote2016_2017,Probably drop,Voting
+regretvote2016_2017,Cat,Voting
+redovote2016_2017,Cat,Voting
+redovote2016_t_2017,Probably drop,Voting
+vote2018_2017,Cat,Voting
+vote2018_force_2017,Tied to nearby column,Voting
+trumpapp_2017,Cat_O_DN,Pol_Approval
+fav_trump_2017,Cat_O_DN,Pol_Approval
+fav_ryan_2017,Cat_O_DN,Pol_Approval
+fav_obama_2017,Cat_O_DN,Pol_Approval
+fav_hrc_2017,Cat_O_DN,Pol_Approval
+fav_sanders_2017,Cat_O_DN,Pol_Approval
+fav_putin_2017,Cat_O_DN,Pol_Approval
+political_system_leader_2017,Cat_O_DN,Systems/Democracy
+political_system_army_2017,Cat_O_DN,Systems/Democracy
+political_system_democratic_2017,Cat_O_DN,Systems/Democracy
+democracy_importance_2017,Cat_O_DN,Systems/Democracy
+democracy_preference_2017,Cat_O_DN,Systems/Democracy
+us_democracy_satisfaction_2017,Cat_O_DN,Systems/Democracy
+pres_obey_courts_2017,Cat,Systems/Democracy
+pres_oversight_2017,Cat,Systems/Democracy
+pres_news_scrutiny_2017,Cat,Systems/Democracy
+track_2017,Cat,Direction
+track_moral_climate_2017,Cat,Direction
+persfinretro_2017,Cat_O_DN,Direction
+econtrend_2017,Cat_O_DN,Direction
+Americatrend_2017,Cat_O_DN,Direction
+living_standards_parents_2017,Cat_O_DN,Direction
+futuretrend_2017,Cat_O_DN,Direction
+american_dream_2017,Cat_O_DN,Direction
+values_culture_2017,Cat_O_DN,Direction
+US_respect_2017,Cat_O_DN,Direction
+stranger_2017,Cat_O,Direction
+promise_parent_2017,Cat_O,TrumpPromise
+promise_repeal_aca_2017,Cat_O,TrumpPromise
+promise_wall_2017,Cat_O,TrumpPromise
+promise_immigration_2017,Cat_O,TrumpPromise
+promise_tpp_2017,Cat_O,TrumpPromise
+promise_tax_2017,Cat_O,TrumpPromise
+promise_corruption_2017,Cat_O,TrumpPromise
+promise_success_parent_2017,Cat_O,TrumpPromise
+promise_success_repeal_aca_2017,Cat_O,TrumpPromise
+promise_success_wall_2017,Cat_O,TrumpPromise
+promise_success_immigration_2017,Cat_O,TrumpPromise
+promise_success_tpp_2017,Cat_O,TrumpPromise
+promise_success_tax_2017,Cat_O,TrumpPromise
+promise_success_corruption_2017,Cat_O,TrumpPromise
+blame_trump_2017,Cat_O,Blame
+blame_media_2017,Cat_O,Blame
+blame_dems_2017,Cat_O,Blame
+blame_reps_2017,Cat_O,Blame
+blame_courts_2017,Cat_O,Blame
+trustgovt_2017,Cat_O,Trust
+ft_black_2017,1-100_DN,FavTemp
+ft_white_2017,1-100_DN,FavTemp
+ft_hisp_2017,1-100_DN,FavTemp
+ft_asian_2017,1-100_DN,FavTemp
+ft_muslim_2017,1-100_DN,FavTemp
+ft_jew_2017,1-100_DN,FavTemp
+ft_christ_2017,1-100_DN,FavTemp
+ft_fem_2017,1-100_DN,FavTemp
+ft_immig_2017,1-100_DN,FavTemp
+ft_gays_2017,1-100_DN,FavTemp
+ft_unions_2017,1-100_DN,FavTemp
+ft_police_2017,1-100_DN,FavTemp
+ft_altright_2017,1-100_DN,FavTemp
+ft_evang_2017,1-100_DN,FavTemp
+ft_dem_2017,1-100_DN,FavTemp
+ft_rep_2017,1-100_DN,FavTemp
+imiss_a_2017,Cat_O,IssueImportance
+imiss_b_2017,Cat_O,IssueImportance
+imiss_c_2017,Cat_O,IssueImportance
+imiss_d_2017,Cat_O,IssueImportance
+imiss_e_2017,Cat_O,IssueImportance
+imiss_f_2017,Cat_O,IssueImportance
+imiss_g_2017,Cat_O,IssueImportance
+imiss_h_2017,Cat_O,IssueImportance
+imiss_i_2017,Cat_O,IssueImportance
+imiss_j_2017,Cat_O,IssueImportance
+imiss_k_2017,Cat_O,IssueImportance
+imiss_l_2017,Cat_O,IssueImportance
+imiss_m_2017,Cat_O,IssueImportance
+imiss_n_2017,Cat_O,IssueImportance
+imiss_o_2017,Cat_O,IssueImportance
+imiss_p_2017,Cat_O,IssueImportance
+imiss_q_2017,Cat_O,IssueImportance
+imiss_r_2017,Cat_O,IssueImportance
+imiss_s_2017,Cat_O,IssueImportance
+imiss_t_2017,Cat_O,IssueImportance
+imiss_u_2017,Cat_O,IssueImportance
+imiss_x_2017,Cat_O,IssueImportance
+imiss_y_2017,Cat_O,IssueImportance
+immi_contribution_treat_2017,Tied to nearby column,Immigration
+immi_contribution_a_2017,Cat_O,Immigration
+immi_contribution_b_2017,Cat_O,Immigration
+immi_naturalize_2017,Cat,Immigration
+immi_makedifficult_2017,Cat_O_DN,Immigration
+immi_muslim_2017,Cat_O_DN,Immigration
+immigration_cap_2017,Cat_O,Immigration
+culture_pref_2017,Cat,Immigration
+contact_english_treat_2017,Tied to nearby column,Immigration
+contact_english_a_2017,Cat_O,Immigration
+contact_english_b_2017,Cat_O,Immigration
+immigrants_take_2017,Cat_O,Immigration
+immigrants_culture_2017,Cat_O,Immigration
+immigrants_security_2017,Cat_O,Immigration
+immigrants_crime_2017,Cat_O,Immigration
+immigrants_economy_2017,Cat_O,Immigration
+immigration_help_2017,Cat_O_DN,Immigration
+univhealthcov_2017,Cat_O_DN,Health
+healthreformbill_2017,Cat_O_DN,Health
+aca_favor_2017,Cat_O_DN,Health
+taxdoug_2017,Cat,Taxes
+govt_reg_2017,Cat_O_DN,Economics
+bank_regulation_2017,Cat_O,Economics
+income_redistribution_2017,Cat_O,Economics
+foregin_workers_2017,Cat,Economics
+government_economic_ladder_2017,Cat,Economics
+fed_improve_economy_2017,Cat_O,Economics
+government_vs_private_2017,Cat,Economics
+muslim_describe_economy_2017,1-100,Muslim
+muslim_describe_laws_2017,1-100,Muslim
+muslim_describe_terrorism_2017,1-100,Muslim
+muslim_describe_families_2017,1-100,Muslim
+muslim_describe_false_2017,1-100,Muslim
+muslim_describe_terror_symp_2017,1-100,Muslim
+muslim_describe_religious_2017,1-100,Muslim
+muslim_describe_women_2017,1-100,Muslim
+muslim_describe_fit_in_2017,1-100,Muslim
+muslim_describe_gays_2017,1-100,Muslim
+muslim_distrust_mosque_2017,Cat_O,Muslim
+muslim_distrust_airpot_2017,Cat_O,Muslim
+muslim_distrust_vote_2017,Cat_O,Muslim
+tradepolicy_2017,Cat,Trade
+egalitarian_opportunies_2017,Cat_O,Egalitarian
+egalitarian_worry_less_2017,Cat_O,Egalitarian
+egalitarian_no_big_deal_2017,Cat_O,Egalitarian
+egalitarian_fewer_problems_2017,Cat_O,Egalitarian
+promote_diversity_2017,Cat,Race
+expert_ordinary_2017,Cat_O,Trust
+expert_facts_2017,Cat_O,Trust
+expert_help_2017,Cat_O,Trust
+expert_evil_2017,Cat_O,Trust
+class_meaning_2017,Cat_O,Sex/MeToo
+class_honor_2017,Cat_O,Sex/MeToo
+class_open_doors_2017,Cat_O,Sex/MeToo
+class_manly_2017,Cat_O,Sex/MeToo
+class_loyal_2017,Cat_O,Sex/MeToo
+class_bold_2017,Cat_O,Sex/MeToo
+employment_status_2017,Cat,RespInfo
+job_looking_2017,Tied to nearby column,RespInfo
+job_title_2017,Unknown,RespInfo
+job_title_t_2017,Probably drop,RespInfo
+finance_worry_2017,Cat_O,RespInfo
+savings_2017,Cat,RespInfo
+unexpected_2017,Cat_O,RespInfo
+finance_event_lost_job_2017,Cat,RespInfo
+finance_event_spouse_job_2017,Cat,RespInfo
+finance_event_rent_2017,Cat,RespInfo
+finance_event_loan_2017,Cat,RespInfo
+finance_event_car_2017,Cat,RespInfo
+finance_event_credit_2017,Cat,RespInfo
+finance_event_income_2017,Cat,RespInfo
+satisfaction_job_2017,Cat_O,RespInfo
+satisfaction_incmoe_2017,Cat_O,RespInfo
+satisfaction_savings_2017,Cat_O,RespInfo
+satisfaction_debt_2017,Cat_O,RespInfo
+satisfaction_healthcare_2017,Cat_O,RespInfo
+satisfaction_live_2017,Cat_O,RespInfo
+satisfaction_neighborhood_2017,Cat_O,RespInfo
+satisfaction_localeconomy_2017,Cat_O,RespInfo
+satisfaction_family_2017,Cat_O,RespInfo
+community_issue_alcohol_2017,Cat_O,RespInfo
+community_issue_drug_2017,Cat_O,RespInfo
+community_issue_poverty_2017,Cat_O,RespInfo
+community_issue_jobs_2017,Cat_O,RespInfo
+community_issue_crime_2017,Cat_O,RespInfo
+community_issue_schools_2017,Cat_O,RespInfo
+community_econ_health_2017,Cat_O_DN,RespInfo
+community_quality_life_2017,Cat_O_DN,RespInfo
+race_2017,Cat,RespInfo
+race_fate_2017,Cat_O,RespInfo
+race_importance_2017,Cat_O,RespInfo
+educ_2017,Cat_O,RespInfo
+marstat_2017,Cat,RespInfo
+child18_2017,Cat,RespInfo
+faminc_new_2017,Cat_O_DN,RespInfo
+pid3_2017,Cat,PolIden
+pid7_2017,Cat_O_DN,PolIden
+ideo5_2017,Cat_O_DN,PolIden
+newsint_2017,Cat_O_DN,Engagement
+pew_bornagain_2017,Cat,RespInfo
+pew_religimp_2017,Cat_O,RespInfo
+pew_churatd_2017,Cat_O_DN,RespInfo
+pew_prayer_2017,Cat_O_DN,RespInfo
+religpew_2017,Cat,RespInfo
+weight_2016,Weight,Weight
+PARTY_AGENDAS_rand_2016,Probably drop,ID
+pp_primary16_2016,Cat,Voting
+pp_demprim16_2016,Tied to nearby column,Voting
+pp_repprim16_2016,Tied to nearby column,Voting
+inputstate_2016,Cat,ID
+izip_2016,Info_Zip,ID
+votereg2_2016,Cat,ID
+votereg_f_2016,Cat,ID
+regzip_2016,Info_Zip,ID
+turnout16_2016,Cat,Voting
+vote_usual_2016,Probably drop,Voting
+votemeth16_2016,Cat,Voting
+presvote16post_2016,Cat,Voting
+presvote16post_t_2016,Probably drop,Voting
+vote2016_cand2_2016,Tied to nearby column,Voting
+vote_for_against_2016,Tied to nearby column,Voting
+Clinton_Rubio_2016,Cat,HeadtoHead
+Clinton_Cruz_2016,Cat,HeadtoHead
+Sanders_Trump_2016,Cat,HeadtoHead
+Sanders_Rubio_2016,Cat,HeadtoHead
+wished_voted_2016,Probably drop,Voting
+vote_regrets_2016,Cat,Voting
+second_chance_2016,Probably drop,Voting
+second_chance_t_2016,Probably drop,Voting
+accurately_counted_2016,Cat,Trust
+accurately_counted2_2016,Cat,Trust
+obamaapp_2016,Cat_O_DN,Pol_Approval
+fav_trump_2016,Cat_O_DN,Pol_Approval
+fav_cruz_2016,Cat_O_DN,Pol_Approval
+fav_ryan_2016,Cat_O_DN,Pol_Approval
+fav_romn_2016,Cat_O_DN,Pol_Approval
+fav_obama_2016,Cat_O_DN,Pol_Approval
+fav_hrc_2016,Cat_O_DN,Pol_Approval
+fav_sanders_2016,Cat_O_DN,Pol_Approval
+fav_rubio_2016,Cat_O_DN,Pol_Approval
+PARTY_AGENDAS_D1_2016,Cat_O,PartyAgendaD
+PARTY_AGENDAS_D2_2016,Cat_O,PartyAgendaD
+PARTY_AGENDAS_D3_2016,Cat_O,PartyAgendaD
+PARTY_AGENDAS_D4_2016,Cat_O,PartyAgendaD
+PARTY_AGENDAS_D5_2016,Cat_O,PartyAgendaD
+PARTY_AGENDAS_D6_2016,Cat_O,PartyAgendaD
+PARTY_AGENDAS_D7_2016,Cat_O,PartyAgendaD
+PARTY_AGENDAS_D8_2016,Cat_O,PartyAgendaD
+PARTY_AGENDAS_D9_2016,Cat_O,PartyAgendaD
+PARTY_AGENDAS_D10_2016,Cat_O,PartyAgendaD
+PARTY_AGENDAS_D11_2016,Cat_O,PartyAgendaD
+PARTY_AGENDAS_D12_2016,Cat_O,PartyAgendaD
+PARTY_AGENDAS_R1_2016,Cat_O,PartyAgendaR
+PARTY_AGENDAS_R2_2016,Cat_O,PartyAgendaR
+PARTY_AGENDAS_R3_2016,Cat_O,PartyAgendaR
+PARTY_AGENDAS_R4_2016,Cat_O,PartyAgendaR
+PARTY_AGENDAS_R5_2016,Cat_O,PartyAgendaR
+PARTY_AGENDAS_R6_2016,Cat_O,PartyAgendaR
+PARTY_AGENDAS_R7_2016,Cat_O,PartyAgendaR
+PARTY_AGENDAS_R8_2016,Cat_O,PartyAgendaR
+PARTY_AGENDAS_R9_2016,Cat_O,PartyAgendaR
+PARTY_AGENDAS_R10_2016,Cat_O,PartyAgendaR
+PARTY_AGENDAS_R11_2016,Cat_O,PartyAgendaR
+PARTY_AGENDAS_R12_2016,Cat_O,PartyAgendaR
+RIGGED_SYSTEM_1_2016,Cat_O,RiggedOccur
+RIGGED_SYSTEM_2_2016,Cat_O,RiggedOccur
+RIGGED_SYSTEM_3_2016,Cat_O,RiggedOccur
+RIGGED_SYSTEM_4_2016,Cat_O,RiggedOccur
+RIGGED_SYSTEM_5_2016,Cat_O,RiggedOccur
+RIGGED_SYSTEM_6_2016,Cat_O,RiggedOccur
+track_2016,Cat,Direction
+persfinretro_2016,Cat_O_DN,Direction
+econtrend_2016,Cat_O_DN,Direction
+Americatrend_2016,Cat_O_DN,Direction
+futuretrend_2016,Cat_O_DN,Direction
+wealth_2016,Cat,Direction
+values_culture_2016,Cat_O_DN,Direction
+US_respect_2016,Cat_O_DN,Direction
+trustgovt_2016,Cat_O,Trust
+trust_people_2016,Cat_O_DN,Trust
+helpful_people_2016,Cat_O_DN,Trust
+fair_people_2016,Cat_O_DN,Trust
+ft_black_2016,1-100_DN,FavTemp
+ft_white_2016,1-100_DN,FavTemp
+ft_hisp_2016,1-100_DN,FavTemp
+ft_asian_2016,1-100_DN,FavTemp
+ft_muslim_2016,1-100_DN,FavTemp
+ft_jew_2016,1-100_DN,FavTemp
+ft_christ_2016,1-100_DN,FavTemp
+ft_fem_2016,1-100_DN,FavTemp
+ft_immig_2016,1-100_DN,FavTemp
+ft_blm_2016,1-100_DN,FavTemp
+ft_wallst_2016,1-100_DN,FavTemp
+ft_gays_2016,1-100_DN,FavTemp
+ft_unions_2016,1-100_DN,FavTemp
+ft_police_2016,1-100_DN,FavTemp
+ft_altright_2016,1-100_DN,FavTemp
+imiss_a_2016,Cat_O,IssueImportance
+imiss_b_2016,Cat_O,IssueImportance
+imiss_c_2016,Cat_O,IssueImportance
+imiss_d_2016,Cat_O,IssueImportance
+imiss_e_2016,Cat_O,IssueImportance
+imiss_f_2016,Cat_O,IssueImportance
+imiss_g_2016,Cat_O,IssueImportance
+imiss_h_2016,Cat_O,IssueImportance
+imiss_i_2016,Cat_O,IssueImportance
+imiss_j_2016,Cat_O,IssueImportance
+imiss_k_2016,Cat_O,IssueImportance
+imiss_l_2016,Cat_O,IssueImportance
+imiss_m_2016,Cat_O,IssueImportance
+imiss_n_2016,Cat_O,IssueImportance
+imiss_o_2016,Cat_O,IssueImportance
+imiss_p_2016,Cat_O,IssueImportance
+imiss_q_2016,Cat_O,IssueImportance
+imiss_r_2016,Cat_O,IssueImportance
+imiss_s_2016,Cat_O,IssueImportance
+imiss_t_2016,Cat_O,IssueImportance
+imiss_u_2016,Cat_O,IssueImportance
+imiss_x_2016,Cat_O,IssueImportance
+imiss_y_2016,Cat_O,IssueImportance
+immi_contribution_2016,Cat_O_DN,Immigration
+immi_naturalize_2016,Cat,Immigration
+immi_makedifficult_2016,Cat_O_DN,Immigration
+immi_muslim_2016,Cat_O_DN,Immigration
+abortview3_2016,Cat_O_DN,Cultural
+gaymar_2016,Cat,Cultural
+view_transgender_2016,Cat,Cultural
+deathpen_2016,Cat_O_DN,MiscIssue
+deathpenfreq_2016,Cat_O_DN,MiscIssue
+police_threat_2016,Cat,Race
+conviction_accuracy_2016,Cat,MiscIssue
+univhealthcov_2016,Cat,Health
+healthreformbill_2016,Cat_O_DN,Health
+envwarm_2016,Cat_O_DN,MiscIssue
+envpoll2_2016,Cat,MiscIssue
+affirmact_gen_2016,Cat_O_DN,MiscIssue
+taxdoug_2016,Cat,Economics
+govt_reg_2016,Cat_O_DN,Economics
+gvmt_involment_2016,Cat,Economics
+tradepolicy_2016,Cat,Trade
+free_trade_1_2016,Change order,Trade
+free_trade_2_2016,Change order,Trade
+free_trade_3_2016,Change order,Trade
+free_trade_4_2016,Change order,Trade
+free_trade_5_2016,Change order,Trade
+amcitizen_2016,Cat_O_DN,Proud
+amshamed_2016,Cat_O_DN,Proud
+belikeus_2016,Cat_O_DN,Proud
+prouddem_2016,Cat_O_DN,Proud
+proudhis_2016,Cat_O_DN,Proud
+proudgrp_2016,Cat_O_DN,Proud
+ambornin_2016,Cat_O_DN,AmericanID
+amcit_2016,Cat_O_DN,AmericanID
+amlived_2016,Cat_O_DN,AmericanID
+amenglish_2016,Cat_O_DN,AmericanID
+amchrstn_2016,Cat_O_DN,AmericanID
+amgovt_2016,Cat_O_DN,AmericanID
+amwhite_2016,Cat_O_DN,AmericanID
+amdiverse_2016,Cat_O_DN,AmericanID
+sexism1_2016,Cat_O,Sex/MeToo
+sexism2_2016,Cat_O,Sex/MeToo
+sexism3_2016,Cat_O,Sex/MeToo
+sexism4_2016,Cat_O,Sex/MeToo
+sexism5_2016,Cat_O,Sex/MeToo
+sexism6_2016,Cat_O,Sex/MeToo
+gender_equality_2016,Cat_O_DN,Sex/MeToo
+race_deservemore_2016,Cat_O_DN,Race
+race_overcome_2016,Cat_O_DN,Race
+race_tryharder_2016,Cat_O_DN,Race
+race_slave_2016,Cat_O_DN,Race
+policies_favor_2016,Cat_O_DN,Race
+reverse_discrimination_2016,Cat_O_DN,Race
+inc_opp_blacks_2016,Cat_O_DN,Race
+race_majority_1_2016,Cat_O,Race
+race_majority_2_2016,Cat_O,Race
+race_majority_3_2016,Cat_O,Race
+race_majority_4_2016,Cat_O,Race
+SOCIAL_CONFORMITY_1_2016,Cat,Social_Conformity
+SOCIAL_CONFORMITY_2_2016,Cat,Social_Conformity
+SOCIAL_CONFORMITY_3_2016,Cat,Social_Conformity
+SOCIAL_CONFORMITY_4_2016,Cat,Social_Conformity
+CIVIC_PARTICIPATION_2016,Cat_O,OrgMembership
+POLITICAL_CORRECTNESS_2016,Cat,Cultural
+race_2016,Cat,RespInfo
+race_other_2016,Probably drop,Race
+race_fate_2016,Cat_O,Race
+race_importance_2016,Cat_O,Race
+labunmemb_2016,Cat,RespInfo
+milstat_1_2016,Cat,RespInfo
+milstat_2_2016,Cat,RespInfo
+milstat_3_2016,Cat,RespInfo
+milstat_4_2016,Cat,RespInfo
+milstat_5_2016,Cat,RespInfo
+gunown_2016,Cat,RespInfo
+smoke100_2016,Cat,RespInfo
+smokenow_2016,Cat,RespInfo
+healthdk_0_2016,Cat,RespInfo
+healthcov2_2016,Cat,RespInfo
+healthcov_t_2016,Probably drop,RespInfo
+alcohol_2016,Cat,RespInfo
+painkillers_2016,Cat,RespInfo
+drugs_2016,Cat,RespInfo
+victim_12mo_2016,Cat_O_DN,RespInfo
+educ_2016,Cat_O,RespInfo
+marstat_2016,Cat,RespInfo
+child18_2016,Cat,RespInfo
+employ_2016,Cat,RespInfo
+employ_t_2016,Probably drop,RespInfo
+faminc_2016,Cat_O_DN,RespInfo
+pid3_2016,Cat,PolIden
+pid3_t_2016,Probably drop,PolIden
+pid7_2016,Cat_O_DN,PolIden
+ideo5_2016,Cat_O_DN,PolIden
+newsint_2016,Cat_O_DN,Engagement
+pew_bornagain_2016,Cat,RespInfo
+pew_religimp_2016,Cat_O,RespInfo
+pew_churatd_2016,Cat_O_DN,RespInfo
+pew_prayer_2016,Cat_O_DN,RespInfo
+religpew_2016,Cat,RespInfo
+religpew_t_2016,Probably drop,ProbablyDrop
+votemeth16_rnd_2016,Rand Indicator,Rand Indicator
+presvote16post_rnd_2016,Rand Indicator,Rand Indicator
+vote2016_cand2_rnd_2016,Rand Indicator,Rand Indicator
+Clinton_Rubio_rnd_2016,Rand Indicator,Rand Indicator
+Clinton_Cruz_rnd_2016,Rand Indicator,Rand Indicator
+Sanders_Trump_rnd_2016,Rand Indicator,Rand Indicator
+Sanders_Rubio_rnd_2016,Rand Indicator,Rand Indicator
+second_chance_rnd_2016,Rand Indicator,Rand Indicator
+obamaapp_rnd_2016,Rand Indicator,Rand Indicator
+fav_grid_row_rnd_2016,Rand Indicator,Rand Indicator
+fav_grid_col_rnd_2016,Rand Indicator,Rand Indicator
+PARTY_AGENDAS_D_grid_row_rnd_201,Rand Indicator,Rand Indicator
+PARTY_AGENDAS_R_grid_row_rnd_201,Rand Indicator,Rand Indicator
+RIGGED_SYSTEM_grid_row_rnd_2016,Rand Indicator,Rand Indicator
+track_rnd_2016,Rand Indicator,Rand Indicator
+persfinretro_rnd_2016,Rand Indicator,Rand Indicator
+econtrend_rnd_2016,Rand Indicator,Rand Indicator
+Americatrend_rnd_2016,Rand Indicator,Rand Indicator
+futuretrend_rnd_2016,Rand Indicator,Rand Indicator
+wealth_rnd_2016,Rand Indicator,Rand Indicator
+values_culture_rnd_2016,Rand Indicator,Rand Indicator
+US_respect_rnd_2016,Rand Indicator,Rand Indicator
+trust_people_rnd_2016,Rand Indicator,Rand Indicator
+helpful_people_rnd_2016,Rand Indicator,Rand Indicator
+fair_people_rnd_2016,Rand Indicator,Rand Indicator
+t1_grid_row_rnd_2016,Rand Indicator,Rand Indicator
+imiss_row_rnd_2016,Rand Indicator,Rand Indicator
+imiss_col_rnd_2016,Rand Indicator,Rand Indicator
+immi_contribution_rnd_2016,Rand Indicator,Rand Indicator
+immi_naturalize_rnd_2016,Rand Indicator,Rand Indicator
+immi_makedifficult_rnd_2016,Rand Indicator,Rand Indicator
+immi_muslim_rnd_2016,Rand Indicator,Rand Indicator
+abortview3_rnd_2016,Rand Indicator,Rand Indicator
+gaymar_rnd_2016,Rand Indicator,Rand Indicator
+view_transgender_rnd_2016,Rand Indicator,Rand Indicator
+deathpen_rnd_2016,Rand Indicator,Rand Indicator
+police_threat_rnd_2016,Rand Indicator,Rand Indicator
+conviction_accuracy_rnd_2016,Rand Indicator,Rand Indicator
+healthreformbill_rnd_2016,Rand Indicator,Rand Indicator
+envwarm_rnd_2016,Rand Indicator,Rand Indicator
+envpoll2_rnd_2016,Rand Indicator,Rand Indicator
+affirmact_gen_rnd_2016,Rand Indicator,Rand Indicator
+taxdoug_rnd_2016,Rand Indicator,Rand Indicator
+gvmt_involment_rnd_2016,Rand Indicator,Rand Indicator
+tradepolicy_rnd_2016,Rand Indicator,Rand Indicator
+free_trade_grid_row_rnd_2016,Rand Indicator,Rand Indicator
+agree_grid_row_rnd_2016,Rand Indicator,Rand Indicator
+proud_grid_row_rnd_2016,Rand Indicator,Rand Indicator
+CONCEPTIONS_grid_row_rnd_2016,Rand Indicator,Rand Indicator
+sexism_grid_row_rnd_2016,Rand Indicator,Rand Indicator
+gender_equality_rnd_2016,Rand Indicator,Rand Indicator
+racialresent_grid_row_rnd_2016,Rand Indicator,Rand Indicator
+race_majority_row_rnd_2016,Rand Indicator,Rand Indicator
+m_SC_1_SC_4_rnd_2016,Rand Indicator,Rand Indicator
+SOCIAL_CONFORMITY_1_grid_col_rnd,Rand Indicator,Rand Indicator
+SOCIAL_CONFORMITY_2_grid_col_rnd,Rand Indicator,Rand Indicator
+SOCIAL_CONFORMITY_3_grid_col_rnd,Rand Indicator,Rand Indicator
+SOCIAL_CONFORMITY_4_grid_col_rnd,Rand Indicator,Rand Indicator
+POLITICAL_CORRECTNESS_rnd_2016,Rand Indicator,Rand Indicator
+gunown_rnd_2016,Rand Indicator,Rand Indicator
+TS_matched_2016,Probably drop,ProbablyDrop
+TS_vb_vf_voter_status_2016,Probably drop,ProbablyDrop
+TS_vb_vf_g_2016,Probably drop,ProbablyDrop
+TS_vb_vf_pp_2016,Probably drop,ProbablyDrop
+TS_vb_vf_pp_party_2016,Probably drop,ProbablyDrop
+TS_vb_vf_p_2016,Probably drop,ProbablyDrop
+TS_vb_vf_p_party_2016,Probably drop,ProbablyDrop
+L2_matched_2016,Probably drop,ProbablyDrop
+L2_general_2016,Probably drop,ProbablyDrop
+L2_primary_2016,Probably drop,ProbablyDrop
+newsint2_baseline,Cat_O,Engagement
+track_baseline,Cat,Direction
+trustgovt_baseline,Cat_O,Trust
+persfinretro_baseline,Cat_O_DN,Direction
+econtrend_baseline,Cat_O_DN,Direction
+fatalism2_baseline,Cat_O_DN,Direction
+obamaapp_baseline,Cat_O_DN,Pol_Approval
+watchtv_baseline,Cat_O,MediaConsump
+morn_show_1_baseline,Cat,MediaConsump
+morn_show_2_baseline,Cat,MediaConsump
+morn_show_3_baseline,Cat,MediaConsump
+morn_show_4_baseline,Cat,MediaConsump
+morn_show_5_baseline,Cat,MediaConsump
+morn_show_6_baseline,Cat,MediaConsump
+morn_show_99_baseline,Cat,MediaConsump
+enews_show_1_baseline,Cat,MediaConsump
+enews_show_2_baseline,Cat,MediaConsump
+enews_show_3_baseline,Cat,MediaConsump
+enews_show_4_baseline,Cat,MediaConsump
+enews_show_5_baseline,Cat,MediaConsump
+enews_show_6_baseline,Cat,MediaConsump
+enews_show_7_baseline,Cat,MediaConsump
+enews_show_99_baseline,Cat,MediaConsump
+sundaytalkshow_1_baseline,Cat,MediaConsump
+sundaytalkshow_2_baseline,Cat,MediaConsump
+sundaytalkshow_3_baseline,Cat,MediaConsump
+sundaytalkshow_4_baseline,Cat,MediaConsump
+sundaytalkshow_5_baseline,Cat,MediaConsump
+sundaytalkshow_99_baseline,Cat,MediaConsump
+dailytalkshow_1_baseline,Cat,MediaConsump
+dailytalkshow_2_baseline,Cat,MediaConsump
+dailytalkshow_3_baseline,Cat,MediaConsump
+dailytalkshow_4_baseline,Cat,MediaConsump
+dailytalkshow_5_baseline,Cat,MediaConsump
+dailytalkshow_6_baseline,Cat,MediaConsump
+dailytalkshow_7_baseline,Cat,MediaConsump
+dailytalkshow_8_baseline,Cat,MediaConsump
+dailytalkshow_9_baseline,Cat,MediaConsump
+dailytalkshow_99_baseline,Cat,MediaConsump
+latetalk_1_baseline,Cat,MediaConsump
+latetalk_2_baseline,Cat,MediaConsump
+latetalk_3_baseline,Cat,MediaConsump
+latetalk_4_baseline,Cat,MediaConsump
+latetalk_5_baseline,Cat,MediaConsump
+latetalk_6_baseline,Cat,MediaConsump
+latetalk_7_baseline,Cat,MediaConsump
+latetalk_8_baseline,Cat,MediaConsump
+latetalk_9_baseline,Cat,MediaConsump
+latetalk_10_baseline,Cat,MediaConsump
+latetalk_99_baseline,Cat,MediaConsump
+localeve_baseline,Change order,MediaConsump
+localnewspaper_baseline,Change order,MediaConsump
+ideo5_baseline,Cat_O_DN,PolIden
+imiss_a_baseline,Cat_O,IssueImportance
+imiss_b_baseline,Cat_O,IssueImportance
+imiss_c_baseline,Cat_O,IssueImportance
+imiss_d_baseline,Cat_O,IssueImportance
+imiss_f_baseline,Cat_O,IssueImportance
+imiss_g_baseline,Cat_O,IssueImportance
+imiss_h_baseline,Cat_O,IssueImportance
+imiss_j_baseline,Cat_O,IssueImportance
+imiss_m_baseline,Cat_O,IssueImportance
+imiss_p_baseline,Cat_O,IssueImportance
+imiss_q_baseline,Cat_O,IssueImportance
+imiss_r_baseline,Cat_O,IssueImportance
+imiss_s_baseline,Cat_O,IssueImportance
+imiss_t_baseline,Cat_O,IssueImportance
+imissf_baseline,Cat_O,IssueImportance
+imissf2_baseline,Probably drop,IssueImportance
+immi_contribution_baseline,Cat_O_DN,Immigration
+immi_naturalize_baseline,Cat,Immigration
+immi_makedifficult_baseline,Cat_O_DN,Immigration
+abortview3_baseline,Cat_O_DN,Cultural
+gaymar2_baseline,Cat,Cultural
+deathpenalty_baseline,Cat,MiscIssue
+deathpenfreq_baseline,Cat_O_DN,MiscIssue
+taxwealth_baseline,Cat,MiscIssue
+univhealthcov_baseline,Cat,Health
+healthtaxch3_baseline,Cat_O_DN,Health
+healthqualch3_baseline,Cat_O_DN,Health
+healthreformbill_baseline,Cat_O_DN,Health
+envwarm_baseline,Cat_O_DN,MiscIssue
+envser2_baseline,Cat_O_DN,MiscIssue
+envpoll2_baseline,Cat,MiscIssue
+affirmact_gen_baseline,Cat,Race
+tradepolicy_baseline,Cat,Trade
+govt_reg_baseline,Cat_O_DN,Economics
+pid7_baseline,Cat_O_DN,PolIden
+pid3_t_baseline,Probably drop,PolIden
+pid3_baseline,Cat,PolIden
+pid7others_baseline,Probably drop,PolIden
+vote_generic_baseline,Cat,Voting
+match_generic_t_baseline,Probably drop,ProbablyDrop
+cong2012_2_baseline,Cat,Voting
+cong2012_2_t_baseline,Probably drop,ProbablyDrop
+marstat_baseline,Cat,RespInfo
+PARTYID_SP_baseline,Cat,PolIden
+polinterest_baseline,Cat_O_DN,Engagement
+pol_know_baseline,Cat_O_DN,Engagement
+pk_ideo_baseline,Cat,Knowledge
+pk_house_baseline,Cat,Knowledge
+pk_senate_baseline,Cat,Knowledge
+pk_HMinL_baseline,Cat,Knowledge
+pk_Speaker_baseline,Cat,Knowledge
+pk_HMajL_baseline,Cat,Knowledge
+pk_SMinL_baseline,Cat,Knowledge
+pk_VP_baseline,Cat,Knowledge
+pk_SMajL_baseline,Cat,Knowledge
+pk_SCJ_baseline,Cat,Knowledge
+teapartymemb_baseline,Cat,PolIden
+teapartsup_baseline,Cat_O_DN,PolIden
+selfdescr_ccap_1_baseline,Cat,PolIden
+selfdescr_ccap_2_baseline,Cat,PolIden
+selfdescr_ccap_3_baseline,Cat,PolIden
+selfdescr_ccap_4_baseline,Cat,PolIden
+selfdescr_ccap_5_baseline,Cat,PolIden
+selfdescr_ccap_6_baseline,Cat,PolIden
+selfdescr_ccap_7_baseline,Cat,PolIden
+selfdescr_ccap_8_baseline,Cat,PolIden
+selfdescr_ccap_9_baseline,Cat,PolIden
+selfdescr_ccap_10_baseline,Cat,PolIden
+selfdescr_ccap_11_baseline,Cat,PolIden
+selfdescr_ccap_12_baseline,Cat,PolIden
+selfdescr_ccap_13_baseline,Cat,PolIden
+selfdescr_ccap_99_baseline,Cat,PolIden
+abortidentity_baseline,Cat,Cultural
+race_deservemore_baseline,Cat_O_DN,Race
+race_overcome_baseline,Cat_O_DN,Race
+race_tryharder_baseline,Cat_O_DN,Race
+race_slave_baseline,Cat_O_DN,Race
+therm_baseline,Probably drop,ProbablyDrop
+blacks_t_baseline,1-100_DN,FavTemp
+whites_t_baseline,1-100_DN,FavTemp
+asians_t_baseline,1-100_DN,FavTemp
+latinos_t_baseline,1-100_DN,FavTemp
+christians_t_baseline,1-100_DN,FavTemp
+jews_t_baseline,1-100_DN,FavTemp
+muslims_t_baseline,1-100_DN,FavTemp
+mormons_t_baseline,1-100_DN,FavTemp
+gays_t_baseline,1-100_DN,FavTemp
+add_confirm_baseline,Cat,ID
+inputzip_baseline,Info_Zip,ID
+votereg_baseline,Cat,ID
+regzip_baseline,Info_Zip,ID
+votereg_f_baseline,Cat,ID
+regzip2_baseline,Probably drop,ID
+votereg_fnd_baseline,Probably drop,ID
+inputstate_baseline,Cat,ID
+region_baseline,Cat,ID
+urbancity_baseline,Cat,RespInfo
+urbancity_t_baseline,Probably drop,RespInfo
+ownorrent_baseline,Cat,RespInfo
+ownhome_t_baseline,Probably drop,RespInfo
+lengthres_baseline,Cat_O,RespInfo
+partyreg_baseline,Cat,RespInfo
+partyreg_t_baseline,Probably drop,RespInfo
+reliablevoter_baseline,Cat_O,RespInfo
+straighttic_baseline,Cat,RespInfo
+voted08_ccap_baseline,Cat,RespInfo
+presvote08_baseline,Cat,RespInfo
+OTpresvote08_baseline,Probably drop,RespInfo
+vote10_baseline,Cat,RespInfo
+congvote10_ccap_baseline,Cat,RespInfo
+fav_romn_baseline,Cat_O_DN,Pol_Approval
+fav_ging_baseline,Cat_O_DN,Pol_Approval
+fav_hunt_baseline,Cat_O_DN,Pol_Approval
+fav_bach_baseline,Cat_O_DN,Pol_Approval
+fav_ronp_baseline,Cat_O_DN,Pol_Approval
+fav_sant_baseline,Cat_O_DN,Pol_Approval
+fav_perr_baseline,Cat_O_DN,Pol_Approval
+fav_obama_baseline,Cat_O_DN,Pol_Approval
+fav_hrc_baseline,Cat_O_DN,Pol_Approval
+fav_biden_baseline,Cat_O_DN,Pol_Approval
+ideoobama_baseline,Cat_O_DN,Pol_Views
+saysobama_baseline,Cat_O_DN,Pol_Views
+likeobama_baseline,Cat_O_DN,Pol_Views
+ideonewt_baseline,Cat_O_DN,Pol_Views
+saysnewt_baseline,Cat,Pol_Views
+likenewt_baseline,Cat_O_DN,Pol_Views
+ideoromney_baseline,Cat_O_DN,Pol_Views
+saysromney_baseline,Cat,Pol_Views
+likeromney_baseline,Cat_O_DN,Pol_Views
+repchoice_baseline,Cat,Pol_Views
+repnom_baseline,Cat,Pol_Views
+repnom_t_baseline,Probably drop,Pol_Views
+repnom_f_baseline,Probably drop,Pol_Views
+repnom_f_t_baseline,Probably drop,Pol_Views
+cmatch_romn_baseline,Cat,Pol_Views
+cmatch_romn_t_baseline,Probably drop,Pol_Views
+cmatch_romn_f_baseline,Tied to nearby column,Pol_Views
+cmatch_ging_baseline,Cat,Pol_Views
+cmatch_ging_t_baseline,Probably drop,Pol_Views
+cmatch_ging_f_baseline,Probably drop,Pol_Views
+cmatch_paul_baseline,Probably drop,Pol_Views
+cmatch_paul_t_baseline,Probably drop,Pol_Views
+cmatch_paul_f_baseline,Probably drop,Pol_Views
+org_membership_1_baseline,Cat,OrgMembership
+org_membership_2_baseline,Cat,OrgMembership
+org_membership_3_baseline,Cat,OrgMembership
+org_membership_4_baseline,Cat,OrgMembership
+org_membership_5_baseline,Cat,OrgMembership
+org_membership_6_baseline,Cat,OrgMembership
+org_membership_7_baseline,Cat,OrgMembership
+org_membership_8_baseline,Cat,OrgMembership
+org_membership_9_baseline,Cat,OrgMembership
+org_membership_10_baseline,Cat,OrgMembership
+org_membership_11_baseline,Cat,OrgMembership
+org_membership_12_baseline,Cat,OrgMembership
+org_membership_13_baseline,Cat,OrgMembership
+org_membership_14_baseline,Cat,OrgMembership
+org_membership_15_baseline,Cat,OrgMembership
+org_membership_16_baseline,Cat,OrgMembership
+org_membership_17_baseline,Cat,OrgMembership
+org_membership_18_baseline,Cat,OrgMembership
+org_membership_19_baseline,Cat,OrgMembership
+org_membership_20_baseline,Cat,OrgMembership
+org_membership_21_baseline,Cat,OrgMembership
+volunteer_baseline,Cat,Volunteer
+volunteerf_baseline,Probably drop,Volunteer
+volunteernum_baseline,Probably drop,Volunteer
+volunteerorg2_1_baseline,Cat,Volunteer
+volunteerorg2_2_baseline,Cat,Volunteer
+volunteerorg2_3_baseline,Cat,Volunteer
+volunteerorg2_4_baseline,Cat,Volunteer
+volunteerorg2_5_baseline,Cat,Volunteer
+volunteerorg2_6_baseline,Cat,Volunteer
+volunteerorg2_7_baseline,Cat,Volunteer
+volunteerorg2_8_baseline,Cat,Volunteer
+volunteerorg2_9_baseline,Cat,Volunteer
+volunteerorg2_10_baseline,Cat,Volunteer
+volunteerorg2_11_baseline,Cat,Volunteer
+volunteerorg2_12_baseline,Cat,Volunteer
+volunteerorg2_13_baseline,Cat,Volunteer
+volunteerorg2_14_baseline,Cat,Volunteer
+volunteerorg2_15_baseline,Cat,Volunteer
+volunteerorg2_16_baseline,Cat,Volunteer
+volunteerorg2_17_baseline,Cat,Volunteer
+polcontr_t_baseline,Probably drop,PolContrib
+polcontr_1_baseline,Cat,PolContrib
+polcontr_2_baseline,Cat,PolContrib
+polcontr_3_baseline,Cat,PolContrib
+polcontr_4_baseline,Cat,PolContrib
+polcontr_5_baseline,Cat,PolContrib
+polcontr_6_baseline,Cat,PolContrib
+polcontr_7_baseline,Cat,PolContrib
+labunmemb_baseline,Cat,RespInfo
+pew_bornagain_baseline,Cat,RespInfo
+pew_religimp_baseline,Cat_O,RespInfo
+pew_churatd_baseline,Cat_O_DN,RespInfo
+pew_prayer_baseline,Cat_O_DN,RespInfo
+religpew_baseline,Cat,RespInfo
+religpew_t_baseline,Probably drop,ProbablyDrop
+religpew_protestant_baseline,Probably drop,ProbablyDrop
+religpew_protestant_t_baseline,Probably drop,ProbablyDrop
+Xreligpew_protestant_baseline,Probably drop,ProbablyDrop
+religpew_baptist_baseline,Probably drop,ProbablyDrop
+religpew_baptist_t_baseline,Probably drop,ProbablyDrop
+religpew_methodist_baseline,Probably drop,ProbablyDrop
+religpew_methodist_t_baseline,Probably drop,ProbablyDrop
+religpew_nondenom_baseline,Probably drop,ProbablyDrop
+religpew_nondenom_t_baseline,Probably drop,ProbablyDrop
+religpew_lutheran_baseline,Probably drop,ProbablyDrop
+religpew_lutheran_t_baseline,Probably drop,ProbablyDrop
+religpew_presby_baseline,Probably drop,ProbablyDrop
+religpew_presby_t_baseline,Probably drop,ProbablyDrop
+religpew_pentecost_baseline,Probably drop,ProbablyDrop
+religpew_pentecost_t_baseline,Probably drop,ProbablyDrop
+religpew_episcop_baseline,Probably drop,ProbablyDrop
+religpew_episcop_t_baseline,Probably drop,ProbablyDrop
+religpew_christian_baseline,Probably drop,ProbablyDrop
+religpew_christian_t_baseline,Probably drop,ProbablyDrop
+religpew_congreg_baseline,Probably drop,ProbablyDrop
+religpew_congreg_t_baseline,Probably drop,ProbablyDrop
+religpew_holiness_baseline,Probably drop,ProbablyDrop
+religpew_holiness_t_baseline,Probably drop,ProbablyDrop
+religpew_reformed_baseline,Probably drop,ProbablyDrop
+religpew_reformed_t_baseline,Probably drop,ProbablyDrop
+religpew_advent_baseline,Probably drop,ProbablyDrop
+religpew_advent_t_baseline,Probably drop,ProbablyDrop
+religpew_catholic_baseline,Probably drop,ProbablyDrop
+religpew_catholic_t_baseline,Probably drop,ProbablyDrop
+religpew_mormon_baseline,Probably drop,ProbablyDrop
+religpew_mormon_t_baseline,Probably drop,ProbablyDrop
+religpew_orthodox_baseline,Probably drop,ProbablyDrop
+religpew_orthodox_t_baseline,Probably drop,ProbablyDrop
+religpew_jewish_baseline,Probably drop,ProbablyDrop
+religpew_jewish_t_baseline,Probably drop,ProbablyDrop
+religpew_muslim_baseline,Probably drop,ProbablyDrop
+religpew_muslim_t_baseline,Probably drop,ProbablyDrop
+religpew_buddhist_baseline,Probably drop,ProbablyDrop
+religpew_buddhist_t_baseline,Probably drop,ProbablyDrop
+religpew_hindu_baseline,Probably drop,ProbablyDrop
+religpew_hindu_t_baseline,Probably drop,ProbablyDrop
+milstat_1_baseline,Cat,RespInfo
+milstat_2_baseline,Cat,RespInfo
+milstat_3_baseline,Cat,RespInfo
+milstat_4_baseline,Cat,RespInfo
+milstat_5_baseline,Cat,RespInfo
+milstat_insert_baseline,Probably drop,RespInfo
+gunown_baseline,Cat,RespInfo
+smoke100_baseline,Cat,RespInfo
+smokenow_baseline,Cat,RespInfo
+healthdk_0_baseline,Cat,RespInfo
+healthcov2_baseline,Cat,RespInfo
+healthcov_t_baseline,Probably drop,RespInfo
+knowgay4_baseline,Cat,RespInfo
+closegay4_baseline,Cat,RespInfo
+birthyr_baseline,Number,RespInfo
+gender_baseline,Cat,RespInfo
+race_baseline,Cat,RespInfo
+race_other_baseline,Probably drop,RespInfo
+educ_baseline,Cat_O,RespInfo
+child18_baseline,Probably drop,RespInfo
+child18num_baseline,Number,RespInfo
+child_age1_1_baseline,Probably drop,ProbablyDrop
+child_age2_1_baseline,Probably drop,ProbablyDrop
+child_age3_1_baseline,Probably drop,ProbablyDrop
+child_age4_1_baseline,Probably drop,ProbablyDrop
+child_age5_1_baseline,Probably drop,ProbablyDrop
+child_age6_1_baseline,Probably drop,ProbablyDrop
+child_age7_1_baseline,Probably drop,ProbablyDrop
+child_age8_1_baseline,Probably drop,ProbablyDrop
+child_age9_1_baseline,Probably drop,ProbablyDrop
+child_age10_1_baseline,Probably drop,ProbablyDrop
+student2_baseline,Cat,RespInfo
+job_baseline,Probably drop,ProbablyDrop
+employstat2_t_baseline,Probably drop,ProbablyDrop
+employstat2_baseline,Cat,RespInfo
+industry_baseline,Cat,RespInfo
+industry_former_baseline,Cat,RespInfo
+naics3_t_baseline,Probably drop,ProbablyDrop
+naics3_baseline,Probably drop,ProbablyDrop
+occupationcat_baseline,Cat,RespInfo
+occupationother_baseline,Probably drop,ProbablyDrop
+hourscomputing_baseline,Probably drop,ProbablyDrop
+intuse_else_baseline,Probably drop,ProbablyDrop
+intuse_home_baseline,Probably drop,ProbablyDrop
+intuse_mobile_baseline,Probably drop,ProbablyDrop
+intuse_work_baseline,Probably drop,ProbablyDrop
+intuse2_home_baseline,Probably drop,ProbablyDrop
+intuse2_work_baseline,Probably drop,ProbablyDrop
+intuse2_cafe_baseline,Probably drop,ProbablyDrop
+intuse2_mobile_baseline,Probably drop,ProbablyDrop
+intuse2_else_baseline,Probably drop,ProbablyDrop
+daily_intuse_home_baseline,Probably drop,ProbablyDrop
+daily_intuse_work_baseline,Probably drop,ProbablyDrop
+daily_intuse_cafe_baseline,Probably drop,ProbablyDrop
+daily_intuse_mobile_baseline,Probably drop,ProbablyDrop
+daily_intuse_else_baseline,Probably drop,ProbablyDrop
+employ_spouse_baseline,Probably drop,ProbablyDrop
+employ_spouse_t_baseline,Probably drop,ProbablyDrop
+phone_baseline,Probably drop,ProbablyDrop
+faminc_baseline,Cat_O_DN,RespInfo
+cand_baseline,Probably drop,ProbablyDrop
+cdid_baseline,Probably drop,ProbablyDrop
+demnom2_baseline,Probably drop,ProbablyDrop
+demnom_t_baseline,Probably drop,ProbablyDrop
+izip_baseline,Info_Zip,ID
+lookupzip_baseline,Info_Zip,ID
+prim12_baseline,Cat,Voting
+statefips_baseline,Probably drop,ProbablyDrop
+ccap2012_post_2016,Probably drop,ProbablyDrop
+post_inputstate_2012,Cat,ID
+post_cdid113_2012,Probably drop,ProbablyDrop
+post_turnout12_2012,Cat,Voting
+post_turnout_method12_2012,Cat,Voting
+post_presvote12_2012,Cat,Voting
+post_presvote12_other_2012,Probably drop,ProbablyDrop
+post_senvote12_2012,Probably drop,ProbablyDrop
+post_senvote12_other_2012,Probably drop,ProbablyDrop
+post_house12_2012,Probably drop,ProbablyDrop
+post_housevote12_other_2012,Probably drop,ProbablyDrop
+post_pid7_2012,Cat_O_DN,PolIden
+post_pid3_t_2012,Probably drop,ProbablyDrop
+post_pid3_2012,Cat,PolIden
+post_ideo5_2012,Cat_O_DN,PolIden
+post_newsint_2012,Cat_O_DN,Engagement
+post_HouseCand1Name_2012,Probably drop,ProbablyDrop
+post_HouseCand1Party_2012,Probably drop,ProbablyDrop
+post_HouseCand2Name_2012,Probably drop,ProbablyDrop
+post_HouseCand2Party_2012,Probably drop,ProbablyDrop
+post_HouseCand3Name_2012,Probably drop,ProbablyDrop
+post_HouseCand3Party_2012,Probably drop,ProbablyDrop
+post_SenCand1Name_2012,Probably drop,ProbablyDrop
+post_SenCand1Party_2012,Probably drop,ProbablyDrop
+post_SenCand2Name_2012,Probably drop,ProbablyDrop
+post_SenCand2Party_2012,Probably drop,ProbablyDrop
+post_SenCand3Name_2012,Probably drop,ProbablyDrop
+post_SenCand3Party_2012,Probably drop,ProbablyDrop
+starttime_2017,Probably drop,ProbablyDrop
+endtime_2017,Probably drop,ProbablyDrop
+starttime_2016,Probably drop,ProbablyDrop
+endtime_2016,Probably drop,ProbablyDrop
+starttime,Probably drop,ProbablyDrop
+endtime,Probably drop,ProbablyDrop
