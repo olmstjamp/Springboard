@@ -1,5 +1,5 @@
 # Code and Data
-This folder contains all the notebooks and data for this project. The following descriptions for the different files are below:
+This folder contains all the notebooks and data for this project. All the .ipynb files are well documented and walk the reader through each step of the code. The following descriptions for the different files are below:
 
 'AllCramerMat.csv' - Intermediate step used in section 3.2 of the Captone 1 Storytelling notebook.<br /><br />
 'Capstone 1 Cleaning.ipynb' - Shows the data cleaning and wrangling for the Capstone<br /><br />
